@@ -3,6 +3,7 @@
 Followed Gatsby [quick start](https://www.gatsbyjs.com/docs/quick-start/) instructions.
 
 **Important note:** When creating a new Gatsby site, make sure to use the 'Hello World' git repo. It will pull the files needed to build the starter app.
+Not your Github repo lol.
 
 ### Adding TailwindCSS
 
